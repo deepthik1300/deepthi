@@ -5,6 +5,7 @@ class hello
 		System.out.println("hello world!");
 		System.out.println("welcome to spt");
 	        System.out.println("software engineering");
+		System.out.println("welcome");
 	}
 }
 
